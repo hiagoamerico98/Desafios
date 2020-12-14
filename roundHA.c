@@ -1,8 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-#define TAM_MAX 1000;
-
 int main(){
 	/* n: quantidade de níveis no jogo
 	   k: nível atual
