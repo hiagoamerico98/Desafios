@@ -1,2 +1,3 @@
-# GoogleKickStart
-Código do Google Kick Start
+# Desafios
+
+Códigos de desafios do Google Kick Start, URI Online Judge, Competições, etc. 
